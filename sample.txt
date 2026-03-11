@@ -1,6 +1,8 @@
-* Administration of Github PART-1
+* Administration of Github PART-2
     * Repository creation and deletion
     * Branch creation and deletion
     * Tag creation and deletion
     * Add files and commit changes
     * List commit and check detailed info about commits
+
+Work is in progress
